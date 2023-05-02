@@ -1,6 +1,7 @@
 # ✦.˳·˖✶ Kuriworker ✦.˳·˖✶
 
-⚬ Hello! I am kurisugk (Or galactic-kurisu), whichever you call me, I'm a big nerd who loves these kind of things. So have fun around here!
+⚬ Hello! I am kurisugk (Or galactic-kurisu), whichever you call me, I'm a big nerd who loves these kind of things.
+
 ⚬ What we have here is the **kurisugk** official discord bot
 
 ⚬ MAKE SURE TO **PIP** INSTALL discord.py AND wikipedia
